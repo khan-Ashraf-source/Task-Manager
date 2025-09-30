@@ -16,6 +16,7 @@ The app uses EJS templates for rendering and Tailwind CSS for styling.
 ---
 
 ## Project Structure
+```
 mini-project/
 ├── src/
 │   ├── server.js             # Entry point (starts Express app)
@@ -41,6 +42,7 @@ mini-project/
 ├── .gitignore
 ├── package.json
 ├── README.md
+```
 
 ---
 
