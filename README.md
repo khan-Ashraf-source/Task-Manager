@@ -17,7 +17,7 @@ The app uses EJS templates for rendering and Tailwind CSS for styling.
 
 ## Project Structure
 ```
-mini-project/
+task-notes-app/
 ├── src/
 │   ├── server.js             # Entry point (starts Express app)
 │   ├── app.js                # Express app config (middleware, routes)
